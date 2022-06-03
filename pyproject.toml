@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aurelia-back"
+name = "core"
 version = "0.0.0"
 description = ""
 authors = ["Thanh Nguyen <908739+tnsicdr@users.noreply.github.com>"]
