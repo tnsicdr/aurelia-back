@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aurelia-back"
+version = "0.0.0"
+description = ""
+authors = ["Thanh Nguyen <908739+tnsicdr@users.noreply.github.com>"]
+license = "UNLICENSED"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Flask = "^2.1.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
