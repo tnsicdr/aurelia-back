@@ -6,7 +6,7 @@ authors = ["Thanh Nguyen <908739+tnsicdr@users.noreply.github.com>"]
 license = "UNLICENSED"
 
 [tool.poetry.dependencies]
-python = "^3.10.3"
+python = "3.10.3"
 Flask = "^2.1.2"
 gunicorn = "^20.1.0"
 
